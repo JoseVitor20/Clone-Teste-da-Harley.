@@ -1,0 +1,244 @@
+*{margin: 0;}
+
+body{background:rgb(215, 219, 216);}
+
+html, body{height: 100%;}
+
+.body0{background: white;}
+
+.preto, .tema{background: black;
+	height: 40px;
+	color:white;
+	font-size: 15px;
+	text-align: right;
+	padding-top: 20px;
+	text-decoration: none;
+	font-family: sans-serif, Arial;
+
+}
+
+/*Cor branco e Print*/
+
+.white{background: white;
+	float: initial;
+	padding: 5px;
+}
+
+.Tipos > img{width: 65PX;
+	height: inherit;
+	padding-left: 100px;
+	padding-right: 25px;
+}
+
+.Tipos > span{padding-left:2%;
+	font-weight: 630;
+	font-size: 15px;
+	font-family:Arial ;
+	vertical-align:20px;
+}
+
+.Tipos > input[type=text] {vertical-align: 23px;
+	margin-left: 25%;
+	border:2px solid orange ;
+	width: 150px;
+	height: 30px;
+
+}
+
+.Tipos > input[type=button] {vertical-align: 24px;
+	width: 100px;
+	height: 35.2px;
+	background: orange;
+	color:black;
+	font-weight: bold;
+}
+
+/*Cor branco e Print*/
+
+.tema{padding-left: 33px;
+	padding-right: 40px;
+}
+
+.orange{background: rgb(252, 73, 3);
+	float: initial;
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+	font-size: 25px;
+	font-family: sans-serif, arial;
+	color:white;
+	padding-top: 7px;
+}
+
+.link2{text-decoration: underline;
+		color:white;
+}
+
+.fotex{background-image:url('../Imagem2/Imagem2.jpg');
+		background-size: cover;
+		height: 100vh;
+}
+
+.p3{font-family:sans-serif;
+	padding-top: 5%;
+	padding-left: 6.6%;
+	font-size: 4.5vh;
+	color: white;
+	width: 25%;
+	letter-spacing:2px;
+	font-weight: 800;
+}
+
+.p4{color:white ;
+	padding-left: 6.5%;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding-bottom: 1.5vw;
+
+
+}
+
+
+.a4{font-family: sans-serif,arial;
+	padding-left:6.5%;
+	font-size: 1.2vw;
+	font-weight: bold;
+	background: black;
+	padding:10px 10px ;
+	margin-left: 6.5%;
+}
+
+a{color: white;
+}
+
+.categorias > span {font-family: sans-serif, arial;
+			width: 100%;
+			padding: 20px 0;
+			float: initial;
+			margin-left: 3vw;
+			margin-right: 1vw;
+			font-size: 3vh;
+			padding: 0 2vw;
+			color:white;
+}
+
+.categorias  a{ margin-left: 300px;
+				color:black;
+				font-size: 18px;
+				font-weight: bold;
+				padding-right: -50px;
+				line-height: 50px;
+				margin-right: -260px;
+}
+
+.Img > img{width:50%;
+	margin-left: 45%;
+	
+}	
+
+.p{font-family:tahoma, sem serif;
+	width: 30%;
+	margin-left: 8%;
+	font-size:3.2vh;
+	margin-top:-350px;
+	font-weight: 900;
+}
+
+.p1{font-family:tahoma, sem serif;
+	width:26%;
+	margin-left: 8%;
+	font-size: 1.8vh;
+ }
+
+.link3{color:black;
+		font-family:tahoma, sem serif ;
+ 		text-decoration: none;
+ 		font-size:2.5vh;
+	 	font-weight: bold;
+ 		margin-left: 8%;
+}
+
+.Img2 > img{width:55%;
+	height:450px;
+	margin-top: -25%;
+	margin-left: 5%;
+}
+
+.p5{font-family:tahoma, sem serif; 
+	font-size: 1.5vw;
+	width: 23%;
+	font-weight: bold;
+	padding-top: 20%;
+	padding-left: 62%;
+}
+
+.p6{font-family:tahoma, sem serif; 
+width: 23%;
+padding-left: 62%;
+}
+
+.a5{color: black;
+font-family:tahoma, sem serif;
+width: 400px;
+font-weight: bold;
+padding-left: 62%;
+font-size: 1.3vw;
+}
+
+.span3{font-family: fantasy,cursive;
+		margin-left: 40vw;
+		font-size: 3vw;	
+}
+
+.branco{background: white;
+
+}
+
+.fotos{display: inline-block;}
+
+img{width:450px; display: inline-block;
+
+}
+
+.sport {width: 440px;display: inline-block;
+		margin-left: 40px;	
+}
+
+.CRUISER{width: 440px;display: inline-block;
+		margin-left: 40px;
+
+}
+
+.Grand{width: 440px;display: inline-block;
+		margin-left: 40px;	
+}
+
+.sportsp{font-family: fantasy,cursive;
+	font-size:25px;
+	text-align: right;
+}
+
+.cruisersp{font-family: fantasy,cursive;
+	font-size:25px;
+	text-align: right;
+}
+
+.Grandsp{font-family: fantasy,cursive;
+	font-size:25px;
+	text-align: right;
+}
+
+.sportp{font-weight: bold;
+	font-family: sans-serif;
+
+}
+
+.cruiserp{font-weight: bold;
+	font-family: sans-serif;
+
+}
+
+.Grandp{font-weight: bold;
+	font-family: sans-serif;
+
+}
