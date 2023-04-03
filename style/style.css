@@ -100,6 +100,7 @@ html, body{height: 100%;}
 
 
 .a4{font-family: sans-serif,arial;
+	text-decoration: none;
 	padding-left:6.5%;
 	font-size: 1.2vw;
 	font-weight: bold;
